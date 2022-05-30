@@ -1,4 +1,4 @@
-# towerstack
+# towerstack clone ✨✨
 
 this project is created for my educational purposes only, anyone is able to use this as a mini game project as their first mini game
 
